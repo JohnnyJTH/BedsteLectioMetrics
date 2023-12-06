@@ -22,4 +22,4 @@ jobs:
           config_timezone: UTC
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://bedstelectio.tech
+          plugin_pagespeed_url: https://bedstelectio.dk
